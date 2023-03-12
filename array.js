@@ -10,3 +10,13 @@ while (x<=arr.length) {
    console.log(arr[x]);
    x++;
 }
+//menampilkan nilai dalam array dengan do-while
+let y = 0;
+do{
+   console.log(arr[y]);
+   y++;
+
+}while (x<=arr.length) {
+   
+}
+// java stack
